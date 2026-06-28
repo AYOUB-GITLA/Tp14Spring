@@ -31,7 +31,7 @@ L'application tourne sur le port **8085** → http://localhost:8085
 
 ---
 
-## ⚠️ Scripts Bash sous Windows
+##  Scripts Bash sous Windows
 
 Les scripts `.sh` nécessitent **Git Bash** ou **WSL2**.
 
